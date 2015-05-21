@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Symphony fragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_enable_BT">Enable Bluetooth</string>
+    <string name="action_connect_device">Connect Device</string>
+    <string name="action_exit">Exit App</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_devices_available">devices_available</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="scanning">scanning...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">Scan Devices</string>
+
+</resources>
