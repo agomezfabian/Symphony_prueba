@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Symphony fragments</string>
+    <string name="app_name">Symphony2020</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_enable_BT">Enable Bluetooth</string>
@@ -7,7 +7,7 @@
     <string name="action_exit">Exit App</string>
 
 
-<!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_devices_available">devices_available</string>
     <string name="action_settings">Settings</string>
@@ -20,5 +20,8 @@
     <string name="title_paired_devices">Paired Devices</string>
     <string name="title_other_devices">Other Devices</string>
     <string name="button_scan">Scan Devices</string>
-
+    <string name="barra_4">Barra 4</string>
+    <string name="barra_3">Barra 3</string>
+    <string name="barra_2">Barra 2</string>
+    <string name="barra_1">Barra 1</string>
 </resources>

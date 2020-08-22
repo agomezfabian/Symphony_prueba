@@ -1,8 +1,6 @@
 package com.example.nose.symphony_1_2;
 
 
-import android.support.v4.app.*;
-
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,13 +8,15 @@ import android.view.ViewGroup;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
+import androidx.fragment.app.Fragment;
+
 
 public class Effect extends Fragment {
 
     private SeekBar bar1,bar2,bar3,bar4;
     private TextView textoActivity;
 
-    public Effect ()
+    public Effect()
     {
         //DO NOT DELETE THIS EMPTY CONSTRUCTOR!!!
     }
@@ -31,7 +31,7 @@ public class Effect extends Fragment {
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        bar1 = (SeekBar)view.findViewById(R.id.seekBar);
+        bar1 = (SeekBar)view.findViewById(R.id.seekBar1);
         bar2 = (SeekBar)view.findViewById(R.id.seekBar2);
         bar3 = (SeekBar)view.findViewById(R.id.seekBar3);
         bar4 = (SeekBar)view.findViewById(R.id.seekBar4);

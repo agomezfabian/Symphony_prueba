@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.nose.symphony_1_2.Effect">
+    tools:context="com.example.symphony2020.MainActivity">
 
 
     <LinearLayout
@@ -16,7 +16,7 @@
         <SeekBar
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/seekBar"
+            android:id="@+id/seekBar1"
             android:indeterminate="false"
             android:clickable="false" />
 
@@ -24,7 +24,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:text="Barra 1"
+            android:text="@string/barra_1"
             android:id="@+id/textView" />
 
         <SeekBar
@@ -36,7 +36,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:text="Barra 2"
+            android:text="@string/barra_2"
             android:id="@+id/textView2" />
 
         <SeekBar
@@ -48,7 +48,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:text="Barra 3"
+            android:text="@string/barra_3"
             android:id="@+id/textView3" />
 
         <SeekBar
@@ -60,7 +60,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:text="Barra 4"
+            android:text="@string/barra_4"
             android:id="@+id/textView4" />
 
     </LinearLayout>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Symphony_1_2.2.iml" filepath="$PROJECT_DIR$/Symphony_1_2.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Symphony_prueba.iml" filepath="$PROJECT_DIR$/.idea/modules/Symphony_prueba.iml" group="Symphony_prueba" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Symphony_prueba-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Symphony_prueba-app.iml" group="Symphony_prueba/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Symphony_prueba/app" />
     </modules>
   </component>
 </project>
